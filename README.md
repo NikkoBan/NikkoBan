@@ -35,18 +35,3 @@
 
 - **EmprendeTEC (ITLA)** — Backend administrativo de la plataforma: lógica del servidor, conexión con base de datos, gestión de información e integración con el resto del sistema.
 - **ITLA Academy** — Desarrollo del backend de la plataforma: funcionalidades del sistema, manejo de datos y lógica de negocio.
-
-## Connect with me 
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:starlingjmcr23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-## Stats 
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
